@@ -2,7 +2,7 @@
 A CPU Scheduling Algorithm Simulator written in C++ using a procedural programming approach.
 
 How it works:
-The simulator generates a set of processes based on user-defined constraints. The user provides the maximum values for Burst Time and Arrival Time, which set the range for random generation (from 1 to n, denoted as [1,n]).
+The simulator generates a set of processes based on user-defined constraints. The user provides the maximum values for Burst Time and Arrival Time, which set the range for random generation
 
 Current Features:
     Round Robin (RR) Implementation: A preemptive scheduling algorithm that uses a time quantum to ensure fair CPU sharing.
