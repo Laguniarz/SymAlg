@@ -12,3 +12,5 @@ Roadmap:
     Implementation of FCFS (First-Come, First-Served) and SJF (Shortest Job First) algorithms.
     Exporting simulation results to a .txt or .csv file for further analysis.
     Comparison mode to evaluate performance metrics across different algorithms.
+Conclusion:
+    After trying procedural approach i think applying OOP would be easier to further develop idea of this simulator. I think it would be good to drop this project and make new objected oriented code.
